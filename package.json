@@ -1,0 +1,23 @@
+{
+  "name": "gitparainiciantes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucianabf10/gitparainiciantes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucianabf10/gitparainiciantes/issues"
+  },
+  "homepage": "https://github.com/lucianabf10/gitparainiciantes#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
